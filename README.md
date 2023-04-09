@@ -1,15 +1,15 @@
-# Thai Nation Exam Corpus - Onet Corpus in JSON Format
+# Thai Nation Exam Corpus - Onet exam in JSON Format
 This repository contains a collection of thai nation exam in JSON format for the purpose of being an AI resource for the O-net (Ordinary National Education Test) exam corpus. The O-net exam corpus is a copyrighted material, but this collection is intended to be used as a resource for AI research and development.
 
 # Background
-The O-net exam corpus is a collection of Thai language texts used in the Ordinary National Education Test in Thailand. It contains a wide variety of text genres, including news articles, academic papers, literary works, and more. The corpus is a valuable resource for language research and development, but its use is limited by copyright restrictions.
+The O-net exam corpus is a collection of Thai language texts used in the Ordinary National Education Test in Thailand. It contains a wide variety of text genres, including captions, articles, literary works, and more. The corpus is a valuable resource for language research and development, but its use is limited by copyright restrictions.
 
 This repository aims to provide a useful resource for AI researchers and developers working with Thai language text data. By collecting a subset of the O-net exam corpus in JSON format, we hope to facilitate the development of natural language processing (NLP) models and other AI applications that can benefit Thai people.
 
 # Contents
 The corpus in this repository contains a subset of the O-net exam corpus, including text passages from a variety of genres. The corpus is organized into folders by genre, with each text passage stored as a separate JSON file. Each JSON file contains the following fields:
 
-- `id`: a unique identifier for the text passage
+- `id`: a unique identifier refer to exam order
 - `question`: the exam question in Thai language
 - `materials`: the supporting materials for the question, such as tables, images, or other relevant information (optional)
 - `choice`: a list of possible answer choices for the question
