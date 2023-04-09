@@ -1,4 +1,4 @@
-# Thai Nation Exam Corpus - Onet exam in JSON Format
+# Thai National Exam Corpus - Onet exam in JSON Format
 This repository contains a collection of thai nation exam in JSON format for the purpose of being an AI resource for the O-net (Ordinary National Education Test) exam corpus. The O-net exam corpus is a copyrighted material, but this collection is intended to be used as a resource for AI research and development.
 
 # Background
