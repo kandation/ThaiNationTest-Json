@@ -40,6 +40,11 @@ The corpus in this repository can be used as a resource for AI research and deve
 
 To use the corpus, simply clone or download this repository and extract the JSON files you need. The corpus can be used for a variety of tasks, including language modeling, text classification, and more.
 
+# Limitations
+It's important to note that the O-net exam questions are varied and complex, and may include visual aids such as pictures and tables that are difficult to reproduce in a purely text-based format. While we have made every effort to accurately represent the exam questions and their supporting materials, there may be cases where the text representation is not as clear or detailed as it should be.
+
+In the case of pictures, `we have provided descriptions of the images in place of the actual images themselves`, which may result in some level of misunderstanding or loss of detail. Additionally, some questions may require prior knowledge or contextual information that is not explicitly stated in the text passage, which could affect the accuracy of any AI models trained on this corpus.
+
 # License
 The corpus in this repository is provided under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. However, please note that the O-net exam is copyrighted, and any commercial use or distribution of this corpus may be subject to legal restrictions.
 
